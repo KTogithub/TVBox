@@ -1,0 +1,879 @@
+{
+  "spider": "https://gitlab.com/xmbjm/dc/-/raw/main/jar/isz.jar",
+  "wallpaper": "https://深色壁纸.xxooo.cf/",
+  "sites": [
+   {
+      "key": "豆豆",
+      "name": "豆瓣",
+      "type": 3,
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+
+   {
+            "key": "zb",
+            "name": "直播",
+            "type": 3,
+            "api": "csp_Yj1211",
+            "searchable": 0,
+            "changeable": 0
+        },
+ {
+      "key": "T4-douban",
+      "name": "影视-豆瓣(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/douban.php"
+    },
+    {
+      "key": "T4-yugaopian",
+      "name": "影视-预告片(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/yugaopian.php"
+    },
+    {
+      "key": "yinyue",
+      "name": "音乐-258(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/yyyy.php"
+    },
+    {
+      "key": "djmv",
+      "name": "音乐-DJMV(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/djmv.php"
+    },
+    {
+      "key": "T4-剧圈",
+      "name": "影视-剧圈(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/juquan.php"
+    },
+    {
+      "key": "T4-黑狐",
+      "name": "影视-黑狐(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/heihu.php"
+    },
+    {
+      "key": "T4-jp",
+      "name": "影视-荐片(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/jianpian.php"
+    },
+    {
+      "key": "T4-南瓜",
+      "name": "影视-南瓜(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/nangua.php"
+    },
+    {
+      "key": "T4-极光",
+      "name": "影视-极光(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/jiguang.php"
+    },
+    {
+      "key": "T4-fj",
+      "name": "影视-腐剧(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/fuju.php"
+    },
+    {
+      "key": "T4-caiji",
+      "name": "影视-采集(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/caiji.php"
+    },
+    {
+      "key": "T4-xinshijue",
+      "name": "影视-新视觉(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/xinshijue.php"
+    },
+    {
+      "key": "T4-saohuo",
+      "name": "影视-骚火(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/saohuo.php"
+    },
+    {
+      "key": "T4-mmdj",
+      "name": "短剧-MM(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/mmdj.php"
+    },
+    {
+      "key": "T4-pptv",
+      "name": "影视-皮皮(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/pptv.php"
+    },
+    {
+      "key": "T4-mingri",
+      "name": "影视-明日(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/mingri.php"
+    },
+    {
+      "key": "T4-jrkan",
+      "name": "其他-jr看球(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/jrkan.php"
+    },
+    {
+      "key": "T4-suishenting",
+      "name": "其他-随身听(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/suishenting.php"
+    },
+    {
+      "key": "T4-6v",
+      "name": "磁力-6V(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/6v.php"
+    },
+    {
+      "key": "T4-哔嘀",
+      "name": "磁力-哔嘀(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bdys.php"
+    },
+    {
+      "key": "T4-樱花",
+      "name": "动漫-樱花(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/yinghua.php"
+    },
+    {
+      "key": "T4-dongman",
+      "name": "动漫-巴士(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/dm84.php"
+    },
+    {
+      "key": "T4-xifan",
+      "name": "动漫-稀饭(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/xifan.php"
+    },
+    {
+      "key": "T4-jijiu",
+      "name": "其他-急救(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/jijiu.php"
+    },
+    {
+      "key": "T4-qingting",
+      "name": "音乐-蜻蜓(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/qingting.php"
+    },
+    {
+      "key": "T4-qingfeng",
+      "name": "音乐-清风(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/qingfengdj.php"
+    },
+    {
+      "key": "T4-qiertiyu",
+      "name": "体育-企鹅(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/qietiyu.php"
+    },
+    {
+      "key": "T4-bookan",
+      "name": "听书-博看(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bookan.php"
+    },
+    {
+      "key": "T4-tingshu",
+      "name": "其他-275听书(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/275ts.php"
+    },
+    {
+      "key": "T4-360kq",
+      "name": "其他-看球(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/360kq.php"
+    },
+    {
+      "key": "T4-cctv",
+      "name": "其他-央视(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/cctv.php"
+    },
+    {
+      "key": "T4-cntv",
+      "name": "其他-央视2(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/cntv.php"
+    },
+    {
+      "key": "T4-blh",
+      "name": "儿童-贝乐虎(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/beilehu.php"
+    },
+    {
+      "key": "tuxiaobei",
+      "name": "儿童-兔小贝(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/tuxiaobei.php"
+    },
+    {
+      "key": "T4-iktv",
+      "name": "音乐-iktv(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/iktv.php"
+    },
+    {
+      "key": "T4-tangdou",
+      "name": "音乐-糖豆(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/tangdou.php"
+    },
+    {
+      "key": "yinyuetai",
+      "name": "音乐-音悦(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/yyt.php"
+    },
+    {
+      "key": "xiaoyi",
+      "name": "音乐-小姨(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/wy.php"
+    },
+    {
+      "key": "MV",
+      "name": "音乐-酷奇(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/mv2.php"
+    },
+    {
+      "key": "T4-xiaogou",
+      "name": "音乐-小狗(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/xiaogou.php"
+    },
+    {
+      "key": "T4-djuu",
+      "name": "音乐-DJUU(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/djuu.php"
+    },
+    {
+      "key": "T4-a8",
+      "name": "音乐-A8(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/a8.php"
+    },
+    {
+      "key": "T4-jieshuo",
+      "name": "B站-解说(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=影视解说"
+    },
+    {
+      "key": "T4-bmtv",
+      "name": "B站-MTV(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=bMTV"
+    },
+    {
+      "key": "T4-Blixs",
+      "name": "B站-相声(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=Blixs"
+    },
+    {
+      "key": "T4-Blixq",
+      "name": "B站-戏曲(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=Blixq"
+    },
+    {
+      "key": "T4-Bliych",
+      "name": "B站-演唱会(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=Bliych"
+    },
+    {
+      "key": "T4-mybili",
+      "name": "B站-mybili(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=我的哔哩"
+    },
+    {
+      "key": "T4-bili",
+      "name": "B站-哔哩(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php"
+    },
+    {
+      "key": "T4-waiyu",
+      "name": "B站-外语(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=waiyu"
+    },
+    {
+      "key": "T4-bili1",
+      "name": "B站-幼儿(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=少儿教育"
+    },
+    {
+      "key": "T4-bili2",
+      "name": "B站-小学(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=小学课堂"
+    },
+    {
+      "key": "T4-bili3",
+      "name": "B站-初中(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=初中课堂"
+    },
+    {
+      "key": "T4-bili4",
+      "name": "B站-高中(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=高中课堂"
+    },
+    {
+      "key": "T4-小灯塔科学",
+      "name": "B站-小灯塔科学(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=小灯塔科学"
+    },
+    {
+      "key": "T4-小灯塔地理",
+      "name": "B站-小灯塔地理(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=小灯塔地理"
+    },
+    {
+      "key": "T4-小灯塔百科",
+      "name": "B站-小灯塔百科(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=小灯塔百科"
+    },
+    {
+      "key": "T4-小灯塔国学",
+      "name": "B站-小灯塔国学(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=小灯塔国学"
+    },
+    {
+      "key": "T4-儿童口才",
+      "name": "B站-儿童口才(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=儿童口才"
+    },
+    {
+      "key": "T4-儿童拼音",
+      "name": "B站-儿童拼音(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=儿童拼音"
+    },
+    {
+      "key": "T4-儿童识字",
+      "name": "B站-儿童识字(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=儿童识字"
+    },
+    {
+      "key": "T4-儿童思维",
+      "name": "B站-儿童思维(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=儿童思维"
+    },
+    {
+      "key": "T4-儿童英语",
+      "name": "B站-儿童英语(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=儿童英语"
+    },
+    {
+      "key": "T4-儿童硬笔",
+      "name": "B站-儿童硬笔(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=儿童硬笔"
+    },
+    {
+      "key": "T4-儿童编程",
+      "name": "B站-儿童编程(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=儿童编程"
+    },
+    {
+      "key": "T4-儿童武术",
+      "name": "B站-儿童武术(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=儿童武术"
+    },
+    {
+      "key": "T4-哔哩套餐1",
+      "name": "B站-哔哩套餐1(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=哔哩套餐1"
+    },
+    {
+      "key": "T4-哔哩套餐2",
+      "name": "B站-哔哩套餐2(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=哔哩套餐2"
+    },
+    {
+      "key": "T4-软件教程",
+      "name": "B站-软件教程(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=软件教程"
+    },
+    {
+      "key": "T4-合集",
+      "name": "B站-合集(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=合集"
+    },
+    {
+      "key": "T4-美食",
+      "name": "B站-美食(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=美食"
+    },
+    {
+      "key": "T4-中医",
+      "name": "B站-中医(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=中医"
+    },
+    {
+      "key": "T4-球类合集",
+      "name": "B站-球类合集(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=球类合集"
+    },
+    {
+      "key": "T4-球星合集",
+      "name": "B站-球星合集(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/bili.php?id=球星合集"
+    },
+    {
+      "key": "T4-whzb",
+      "name": "游戏(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/whzb.php"
+    },
+    {
+      "key": "xuexi",
+      "name": "线路|学习",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/xuexi.php"
+    },
+ {
+      "key": "快看资源",
+      "name": "木鱼出品",
+      "type": 1,
+      "api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+      "国产剧",
+      "韩国剧",
+      "香港剧",
+      "台湾剧",
+      "欧美剧",
+      "动作片",
+      "科幻片",
+      "战争片",
+      "奇幻片",
+      "喜剧片",
+      "爱情片",
+      "恐怖片",
+      "犯罪片",
+      "悬疑片",
+      "惊悚片",
+      "剧情片",
+      "冒险片",
+      "记录片",
+      "综艺",
+      "动漫"
+           ]
+    },
+  {
+      "key": "meowtv_lzzy",
+      "name": "拾光收集",
+      "type": 1,
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "泰国剧",
+        "台湾剧",
+        "香港剧",
+        "欧美剧",
+        "韩国剧",
+        "日本剧",
+        "动漫",
+        "体育",
+        "剧情片",
+        "动作片",
+        "爱情片",
+        "喜剧片"
+      ]
+    }
+  ],
+    "parses": [
+ {
+      "name": "聚合",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "777",
+      "type": 0,
+      "url": "https://jx.777jiexi.com/player/?url="
+    },
+    {
+      "name": "杰森",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?url="
+    },
+    {
+      "name": "战狼",
+      "type": 0,
+      "url": "https://jx.zhanlangbu.com/?url="
+    },
+    {
+      "name": "ok",
+      "type": 0,
+      "url": "https://okjx.cc/?url="
+    },
+    {
+      "name": "bozrc",
+      "type": 0,
+      "url": "https://jx.bozrc.com:4433/player/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "leshi",
+          "LS",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": ""
+        }
+      }
+    },
+    {
+      "name": "不累",
+      "type": 0,
+      "url": "https://blbfq.f3322.net/player/analysis.php?v=",
+      "ext": {
+        "flag": [
+          "qiyi",
+          "qq",
+          "letv",
+          "sohu",
+          "youku",
+          "mgtv",
+          "bilibili",
+          "wasu",
+          "xigua",
+          "1905"
+        ]
+      }
+    },
+    {
+      "name": "cod",
+      "type": 0,
+      "url": "https://ksksl.codjx.com/?url="
+    },
+    {
+      "name": "byg解析",
+      "type": 0,
+      "url": "https://byg.ziqj5.shop/?url="
+    },
+    {
+      "name": "xmflv",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    },
+    {
+      "name": "365",
+      "type": 0,
+      "url": "https://chaxun.truechat365.com/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "iqiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ]
+      }
+    },
+    {
+      "name": "26db",
+      "type": 0,
+      "url": "http://vip.26db.cn/g/?url="
+    },
+    {
+      "name": "看看",
+      "type": 0,
+      "url": "https://jx.m3u8.pw/?url="
+    },
+    {
+      "name": "FreeOK",
+      "type": 0,
+      "url": "https://play.86516.tk/OKPlayer/?url="
+    },
+
+  {
+      "name": "777",
+      "type": 0,
+      "url": "https://jx.777jiexi.com/player/?url="
+    },
+    
+        {
+      "name": "isz",
+      "type": 1,
+      "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="
+    },
+    {
+      "name": "YuMi",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "flag": [
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩",
+          "mgtv",
+          "芒果",
+          "芒果"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36"
+      }
+      }
+      }
+      ],
+  "doh": [
+    {
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
+      "ips": [
+        "8.8.4.4",
+        "8.8.8.8"
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://cloudflare-dns.com/dns-query",
+      "ips": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ]
+    },
+    {
+      "name": "AdGuard",
+      "url": "https://dns.adguard.com/dns-query",
+      "ips": [
+        "94.140.14.140",
+        "94.140.14.141"
+      ]
+    },
+    {
+      "name": "DNSWatch",
+      "url": "https://resolver2.dns.watch/dns-query",
+      "ips": [
+        "84.200.69.80",
+        "84.200.70.40"
+      ]
+    },
+    {
+      "name": "Quad9",
+      "url": "https://dns.quad9.net/dns-quer",
+      "ips": [
+        "9.9.9.9",
+        "149.112.112.112"
+      ]
+    }
+  ],
+  "rules": [
+    {
+      "name": "kk",
+      "hosts": [
+        "kuaikan"
+      ],
+      "regex": [
+        "5",
+        "20.123",
+        "20.167",
+        "#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-KEY:METHOD((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "yqk",
+      "hosts": [
+        "yqk"
+      ],
+      "regex": [
+        "18.4",
+        "15.1666",
+        "#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-OUT((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-IN"
+      ]
+    },
+    {
+      "name": "sn",
+      "hosts": [
+        "suonizy"
+      ],
+      "regex": [
+        "#EXTINF.*?\\s+.*?original.*?\\.ts\\s+",
+        "15.1666",
+        "15.2666",
+        "16.3333",
+        "15.266667"
+      ]
+    },
+    {
+      "name": "bf",
+      "hosts": [
+        "bfzy"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "xx",
+      "hosts": [
+        "aws.ulivetv.net"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "lz",
+      "hosts": [
+        "vip.lz",
+        "hd.lz",
+        "v.cdnlz",
+        "yzzy1.play"
+      ],
+      "regex": [
+        "18.5333",
+        "19.52",
+        "18.6666"
+      ]
+    },
+    {
+      "name": "ff",
+      "hosts": [
+        "vip.ffzy",
+        "hd.ffzy",
+        "ffzy"
+      ],
+      "regex": [
+        "25.0666",
+        "25.08",
+        "20.52",
+        "25.1",
+        "25.1999"
+      ]
+    },
+    {
+      "name": "hs",
+      "hosts": [
+        "huoshan.com"
+      ],
+      "regex": [
+        "item_id="
+      ]
+    },
+    {
+      "name": "dy",
+      "hosts": [
+        "douyin.com"
+      ],
+      "regex": [
+        "is_play_url="
+      ]
+    },
+    {
+      "name": "nm",
+      "hosts": [
+        "toutiaovod.com"
+      ],
+      "regex": [
+        "video/tos/cn"
+      ]
+    },
+    {
+      "name": "cl",
+      "hosts": [
+        "magnet"
+      ],
+      "regex": [
+        "最 新",
+        "直 播",
+        "更 新"
+      ]
+    }
+    ]
+  }
+  
+    
