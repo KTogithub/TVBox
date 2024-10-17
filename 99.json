@@ -1,6 +1,7 @@
 {
     "urls": [
-      //  {"url": "http://127.0.0.1:9978/file/TVBox/lib/A.txt","name": "🍵绿茶影院(优选)"},
+     //  {"url": "http://127.0.0.1:9978/file/TVBox/lib/A.txt","name": "🍵绿茶影院(优选)"},
+	    {"url": "./lib/A.txt","name": "🍵绿茶影院(优选)"},
 		{"url": "https://huhujunxx.neocities.org/AV.json","name": "🈚Huhujun线路"},
         {"url":"https://gh.con.sh/https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json","name":"🔞二哈社区(H)"},
 		{"url":"https://mpimg.cn/down.php/71619663801190a09db627d591cd5cad.msll&e4f28a49643fedf735775a7b1ddb567f","name":"🔞18+1"},
