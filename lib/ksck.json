@@ -21,9 +21,10 @@
 {
 "storeHouse":
 [
-//{"sourceName":"绿茶在线仓库","sourceUrl":"http://127.0.0.1:9978/file/TVBox/lib/99.json"},
-{"sourceName":"可视本地仓库","sourceUrl":"http://127.0.0.1:9978/file/TVBox/本地仓库.json"},
-{"sourceName":"云星在线仓库","sourceUrl":"http://127.0.0.1:9978/file/TVBox/lib/zx.json"}
+
+{"sourceName":"可视本地仓库","sourceUrl":"https://github.com/KTogithub/TVBox/blob/main/本地仓库.json"},
+{"sourceName":"云星在线仓库","sourceUrl":"https://github.com/KTogithub/TVBox/blob/main/zx.json"},
+{"sourceName":"绿茶在线仓库","sourceUrl":"https://github.com/KTogithub/TVBox/blob/main/lib/99.json"}
 
 ]
 }
