@@ -1,4 +1,4 @@
-{"spider":"http://127.0.0.1:9978/file/TVBox/jar/fm.jar",
+{"spider":"https://github.com/KTogithub/TVBox/blob/main/jar/fm.jar",
  "sites":[
  {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣","type":3,"api":"./lib/drpy.min.js","ext":"./js/drpy.js"},
  //{"key": "lf_js_search","name": "主页 | [影视专用]","type": 3,"searchable": 0,"changeable": 1,"quickSearch": 0, "filterable": 0, "api": "clan://TVBox/JS/js/lf_search3_min.js"},
@@ -145,7 +145,7 @@
 {"key": "push_agent","name": "手机┃推送","type": 3,"api": "csp_Push","searchable": 0,"quickSearch": 0,"ext": {"aliToken": "TVBox/jar/alitoken.txt","quarkCookie": "TVBox/jar/quark_cookie.txt","from": "4k|auto|fhd"}}
 ],
 "lives": [
-{"name": "本地","type": 0,"url": "http://127.0.0.1:9978/file/TVBox/tv/live.txt","playerType":1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name": "本地","type": 0,"url": "https://github.com/KTogithub/TVBox/blob/main/tv/live.txt","playerType":1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name": "爽翻天","type": 0,"url": "https://my5353.com/v6zby","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name": "肥羊","type": 0,"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name": "Y.CTV","type": 0,"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
