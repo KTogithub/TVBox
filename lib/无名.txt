@@ -1,4 +1,3 @@
-//在线配置地址:  https://jx.mfjx.tk/tvbox.json
 
 {
 "spider": "https://ghp.ci/https://raw.githubusercontent.com/KTogithub/TVBox/refs/heads/main/jar/fm.jar",
