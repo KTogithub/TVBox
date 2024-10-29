@@ -10,7 +10,7 @@
 
 "sites":[
 //{"key": "豆豆","name": "🌎更新日期:2024.10.05    QQ群:855827389","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
-{"key" : "drpy","name" : "🌎更新日期:2024.10.05    QQ群:855827389","type" : 3,"api" : "https://ghp.ci/https://raw.githubusercontent.com/KTogithub/TVBox/refs/heads/main/JS/lib/drpy.min.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/KTogithub/TVBox/refs/heads/main/JS/js/drpy.js"},
+//{"key" : "drpy","name" : "🌎更新日期:2024.10.05    QQ群:855827389","type" : 3,"api" : "https://ghp.ci/https://raw.githubusercontent.com/KTogithub/TVBox/refs/heads/main/JS/lib/drpy.min.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/KTogithub/TVBox/refs/heads/main/JS/js/drpy.js"},
 {"key":"drpy_js_南瓜","name":"🎃南瓜App","type":3,"api":"https://ghp.ci/https://raw.githubusercontent.com/KTogithub/TVBox/refs/heads/main/JS/lib/drpy.min.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/KTogithub/TVBox/refs/heads/main/JS/js/南瓜.js","jar":"https://ghp.ci/https://raw.githubusercontent.com/KTogithub/TVBox/refs/heads/main/jar/fm.jar"},
 //{"key": "csp_KungFu404","name":"🐲阿里设置","type": 3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/Wuyou/tv/raw/jar%2Falisz.jar?ref=master"},
 //{"key": "荐片","name": "🧲荐片磁力","type": 3,"playerType": 1,"api": "https://ghp.ci/https://raw.githubusercontent.com/KTogithub/TVBox/refs/heads/main/JS/lib/drpy2.min.js","ext": "https://ghp.ci/https://raw.githubusercontent.com/KTogithub/TVBox/refs/heads/main/JS/js/荐片.js"},
