@@ -1,10 +1,6 @@
-//公众号【云星日记】
-//使用方法:云星仓库链接添加不上的, 使用zxc.txt这个文件下载保存到内部储存目录下, 名称要保持一致,打开可视TV软件, 首页配置哪里扫码点上传文件,在到手机里面找到这个文件选择上传后,确认打开确定键旁边的存储权限, 在复制粘贴推送clan://localhost/zxc.txt这个链接到仓库地址即可。
-//手机直接把文件放到内部储存目录下，复制上面的接口链接直接输入到仓库接口哪里即可。
-//配置地址:  clan://localhost/zxc.txt
 {
     "urls": [
-//{"url": " ","name": "⚜️更新日期:2024.10.05⚜️"},
+
 {"url": "https://ghp.ci/https://raw.githubusercontent.com/KTogithub/TVBox/refs/heads/main/lib/dc.json","name": "自制单仓"},
 {"url": "https://chuxinya.top/f/yPAJSL/sft%20cx.txt","name": "⚜️爽翻天主线路"},
 {"url": "https://www.now61.com/f/Wm9Ncx/sft%2061.txt","name": "⚜️爽翻天备用线路"},
