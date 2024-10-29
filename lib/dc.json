@@ -1,6 +1,6 @@
 {
 "spider": "https://ghp.ci/https://raw.githubusercontent.com/KTogithub/TVBox/refs/heads/main/jar/fm.jar",
-"wallpaper":"http://w.g9.pub:66/f/DkRvF3/b1.jpg",
+//"wallpaper":"http://w.g9.pub:66/f/DkRvF3/b1.jpg",
 "sites":
 [
 {"key": "南瓜","name": "南瓜","type": 3,"api": "csp_NanGua","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
