@@ -3,9 +3,9 @@
 //资源均来源于网络，仅供测试和交流！请勿用于商业用途，并于下载后24小时内删除！否则后果自负，与本人无关！如有侵权，可联系删除！
 
 {
-"wallpaper_ms": "https://gitee.com/wuyougouwu/tvsource/raw/master/Bz/bz_msw.json",
-"wallpaper": "https://moe.jitsu.top/img",
-"logo": "https://gitee.com/wuyougouwu/tvsource/raw/master/Bz/logo.jpg",
+//"wallpaper_ms": "https://gitee.com/wuyougouwu/tvsource/raw/master/Bz/bz_msw.json",
+//"wallpaper": "https://moe.jitsu.top/img",
+//"logo": "https://gitee.com/wuyougouwu/tvsource/raw/master/Bz/logo.jpg",
 "spider":"https://ghp.ci/https://raw.githubusercontent.com/KTogithub/TVBox/refs/heads/main/jar/fm.jar",
 
 "sites":[
