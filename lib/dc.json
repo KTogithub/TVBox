@@ -201,7 +201,6 @@
 //{"key": "应用商店","name": "🏫应用商店","type": 3,"api": "csp_Market","searchable": 1,"changeable": 0,"ext":"https://gitee.com/wuyougouwu/tvsource/raw/master/yy/yysc.json","jar":"https://gitee.com/wuyougouwu/tvsource/raw/master/jar/%E5%BA%94%E7%94%A8%E5%B8%82%E5%9C%BA.jar"},
 
 {"key": "push_agent","name": "手机 | 推送","type": 3,"api": "csp_Push","searchable": 0,"quickSearch": 0,"ext": {"aliToken": "https://ghp.ci/https://raw.githubusercontent.com/KTogithub/TVBox/refs/heads/main/jar/alitoken.txt","quarkCookie": "https://ghp.ci/https://raw.githubusercontent.com/KTogithub/TVBox/refs/heads/main/jar/quark_cookie.txt","ucCookie": "https://ghp.ci/https://raw.githubusercontent.com/KTogithub/TVBox/refs/heads/main/jar/uc_cookie.txt","from": "4k|auto|fhd"}}
-//{"key": "push_agent", "name": "推送(海阔规则)", "type": 3, "api": "csp_PushAgent", "searchable": 0,"quickSearch": 0, "filterable": 0,"ext": "https://ghp.ci/https://raw.githubusercontent.com/KTogithub/TVBox/refs/heads/main/jar/alitoken.txt","jar": "https://ghp.ci/https://raw.githubusercontent.com/KTogithub/TVBox/refs/heads/main/Hk/Hk.jar"}
 
 ],
      "parses": [
